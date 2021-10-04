@@ -1,1 +1,4 @@
-# -Cloud-PAW-Management
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/taidevops/Cloud-PAW-Management)
+
+# Introduction
+Privileged Access Workstation ([PAW](https://aka.ms/paw)) may be the gold standard of administrative security, but the complexity of architecture and associated price point deter most administrators from implementing this in their environments. To lower the barrier of implementation, this application automates processes to reduce human error and simplify the required security expertise to deploy and manage PAWs and [SPA](https://aka.ms/spa) architectures, specifically from deployment to lifecycle management (on-board/decommission) in addition to SILO management.
